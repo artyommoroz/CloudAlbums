@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">CloudAlbums</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Настройки</string>
+    <string name="navigation_profile">Профиль</string>
+    <string name="no_connection_message">Проверьте подключение к интернету</string>
+    <string name="no_connection_login_message">Проверьте подключение к интернету и повторите попытку</string>
+
+    <string name="prompt_email">Электронная почта</string>
+    <string name="prompt_password">Пароль</string>
+    <string name="action_sign_in">Войти</string>
+    <string name="error_invalid_email">Неверная электронная почта</string>
+    <string name="error_invalid_password">Этот пароль слишком короткий</string>
+    <string name="error_incorrect_password">Невереный пароль </string>
+    <string name="error_field_required">Заполните это поле</string>
+    <string name="error_no_internet">Заполните это поле</string>
+    <string name="error_incorrect_email_or_password">Заполните это поле</string>
+
+    <string-array name="spinner_genres_array">
+        <item>Рок</item>
+        <item>Электронная</item>
+        <item>Блюз</item>
+        <item>Джаз</item>
+        <item>Фанк</item>
+        <item>Рэп</item>
+        <item>Панк</item>
+        <item>Метал</item>
+    </string-array>
+    <string name="title_activity_login">Sign in</string>
+</resources>
